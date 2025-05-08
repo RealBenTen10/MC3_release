@@ -1,0 +1,1 @@
+G = json_graph.node_link_graph(json_data, edges="edges") 
